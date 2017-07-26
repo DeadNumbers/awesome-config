@@ -55,7 +55,7 @@ local altkey       = "Mod1"
 local terminal     = "termite"
 local editor       = "nvim"
 local gui_editor   = "subl3"
-local browser      = "firefox-nightly"
+local browser      = "firefox-developer"
 
 awful.util.terminal = terminal
 awful.util.tagnames = { "", "", "", "", "", "", "", "" }
